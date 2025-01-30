@@ -1,0 +1,5 @@
+crea env= python3 -m venv mio_env
+
+attiva  = source AmbienteLLM/bin/activate
+disattiva = deactivate
+
